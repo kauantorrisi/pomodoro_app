@@ -1,8 +1,8 @@
 // ignore_for_file: camel_case_types
 import 'package:flutter/material.dart';
-import 'package:pomodoro_app/views/Pomodoro/store/pomodoro.store.dart';
-import 'package:pomodoro_app/views/Pomodoro/widgets/botaoEntradaTempo.widget.dart';
 import 'package:provider/provider.dart';
+import '../ui/pomodoro.store.dart';
+import 'botaoEntradaTempo.widget.dart';
 
 class entradaTempoWidget extends StatelessWidget {
   final String title;

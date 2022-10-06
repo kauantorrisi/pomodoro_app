@@ -1,12 +1,7 @@
-import 'package:flutter/material.dart';
-import 'package:flutter_mobx/flutter_mobx.dart';
-import 'package:pomodoro_app/views/Pomodoro/store/pomodoro.store.dart';
-import 'package:pomodoro_app/views/Pomodoro/widgets/cronometroPomodoro.widget.dart';
-import 'package:pomodoro_app/views/Pomodoro/widgets/entradaTempo.widget.dart';
-import 'package:provider/provider.dart';
+import '../pomodoro.imports.dart';
 
-class PomodoroView extends StatelessWidget {
-  PomodoroView({super.key});
+class PomodoroPage extends StatelessWidget {
+  const PomodoroPage({super.key});
 
   @override
   Widget build(BuildContext context) {

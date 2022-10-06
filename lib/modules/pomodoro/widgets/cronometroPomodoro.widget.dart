@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
-import 'package:pomodoro_app/views/Pomodoro/widgets/botaoCronometro.widget.dart';
 import 'package:provider/provider.dart';
-
-import '../store/pomodoro.store.dart';
+import '../ui/pomodoro.store.dart';
+import 'botaoCronometro.widget.dart';
 
 class CronometroWidget extends StatelessWidget {
   const CronometroWidget({super.key});

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:pomodoro_app/views/Pomodoro/pomodoro.view.dart';
-import 'package:pomodoro_app/views/Pomodoro/store/pomodoro.store.dart';
 import 'package:provider/provider.dart';
+import 'modules/pomodoro/ui/pomodoro.store.dart';
+import 'modules/pomodoro/ui/pomodoro.page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: PomodoroView(),
+        home: PomodoroPage(),
       ),
     );
   }
