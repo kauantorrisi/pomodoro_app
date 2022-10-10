@@ -1,16 +1,12 @@
 # pomodoro_app
 
-A new Flutter project.
+Aplicativo de timer pomodoro desenvolvido para estudo da biblioteca de gerenciamento de estado MobX.
+Ainda pretendo adicionar outros timers neste app, como temporizador e o próprio cronômetro.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/97469200/194901344-c5d54f77-3993-4d5d-b867-abd6e60a7295.png)
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/97469200/194901527-cc07cfbe-cd00-4290-b2fd-898677d5a27f.png)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/97469200/194901412-3615a468-ec16-4529-8715-1fc04731840a.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/97469200/194901462-0c6b181f-a5f3-4f43-af12-638ebbaec852.png)
